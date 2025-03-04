@@ -5,4 +5,8 @@ Primneiro exemplo de commit e push no repositório remoto.
 
 segundo commit.
 
-terceiro commit.
+ terceiro commit.
+ 
+ quarto commit.
+ 
+
